@@ -4,10 +4,6 @@
  */
 package model;
 
-/**
- *
- * @author Aluno PROA
- */
 public class Alimento {
 
     private String nome;
